@@ -1,1 +1,13 @@
-Đây là hướng dẫn học lập trình, bài đầu tiên trong khóa FUll Stack trên freeCodeCamp
+Đây là hướng dẫn học lập trình, bài đầu tiên trong khóa FUll Stack trên freeCodeCam. Để tự học và hoàn thiện chương trình kỹ năng full stack, không những cần phải làm việc chăm chỉ, mà còn phải làm việc thông minh:
+
+1: spaced repetition: Lặp lại ngắt quãng là 1 kỹ thuật ghi nhớ của não bộ, điều này là do khi đi ngủ, não bộ sẽ củng cố các kiến thức. Học đều đặn 30 phút mỗi ngày trong 1 tuần sẽ hiệu quả hơn hơn liền 3.5h trong 1 ngày.
+
+2: interleaving practice: Thực hành xen kẽ, tức là học nhiều khái niệm khác nhau, liên tục thực hành, quay lại, hết lần này đến lần khác. Thay vì học xong 1 cái gì đó, rồi học đến cái mới mà không xem lại cái cũ nữa.
+
+3: active recall: Chủ động nhớ lại, và áp dụng những kiến thức đã học vào việc viết code, thực hành làm các dự án.
+
+4: pace yourself: Học lập trình là 1 cuộc đua Marathon, không phải 1 cuộc chạy nước rút. Vì vậy mà hãy học với "Tốc độ của chính bạn". Haỹ ngồi xuống và viết code đều đặn mỗi ngày. Nói thì dễ hơn làm, vì rất dễ sẽ xảy ra tình trạng bỏ cuộc. Hãy hoàn thành những gì bạn đã bắt đầu. Hãy điều chỉnh thời gian học hợp lý. Mõi ngày 1 tiếng thay vì học dồn 7 tiếng trong 1 ngày trong tuần.
+
+5: routine is your friend: Xây dựng thói quen tốt trong việc học lập trình. Ví dụ nếu có thể thức dậy sớm 30 phút mỗi ngày và viết mã thì dẫn dần điều này sẽ trở thành 1 thói quen, bạn sẽ không cần phải mất nhiều ý chí để bắt bản thân làm điều này. Nếu như mỗi ngày bạn có thể dành 1h viết code thì sau 1 năm bạn sẽ tiến bộ vượt bậc. Xây dựng thói quen sẽ khiến việc lập trình không còn áp lực, không có con đường tắt trong việc lập trình, bạn buộc phải dành thời gian và viết code với bàn phím. 
+
+6: Use the Pomodoro technique: Dùng kỹ thuật Pomodoro của Ý. Pomodoro nghĩa là quả cà chua, 1 phiên làm việc sẽ làm 25 phút. Ví dụ như tôi sử dụng đồng hồ đeo tay thông minh, tôi hẹn giờ cho 1 phiên làm việc là 30 phút và tự nói rằng chỉ cần ngồi xuống viết code 30 phút là xong, nhưng thường thì sau khi đã deep work vào quá trình, lúc này bạn sẽ muốn tiếp tục viết code lâu hơn nữa. 
